@@ -1,0 +1,34 @@
+[
+  {
+    "title": "EcoHOpe",
+    "imageSrc": "projects/EcoHOpe.png",
+    "description": "Created Wildlife Donation SPA, promoting conservation with engaging wildlife events, testimonials, and intuitive donation features.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://sonam080804.github.io/EcoHOpe/",
+    "source": "https://github.com/Sonam080804/EcoHOpe"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Build a visually appealing, fully animated React portfolio using CSS, ensuring responsive design and modern, good-looking elements for an impressive presentation.",
+    "skills": ["React", "CSS" , "HTML"],
+    "demo": "/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "FoodMela",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CraftVilla",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

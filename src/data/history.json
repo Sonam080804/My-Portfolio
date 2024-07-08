@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Leetcode",
+    "organisation": "sasti_monjulika_oo",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "experiences": ["Solved 500+ problems", "Achieved Knight Rating (1920)"],
+    "imageSrc": "history/lt.png"
+  },
+  {
+    "role": "Codechef",
+    "organisation": "sonammadnawatv",
+    "startDate": "Mar, 2022",
+    "endDate": "Present",
+    "experiences": ["solved 300+ problems", "4 star at codechef"],
+    "imageSrc": "history/CC.jpg"
+  },
+  {
+    "role": "Codeforces",
+    "organisation": "sasti_monjulika_oo",
+    "startDate": "Apr, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "solved 250+ problems",
+      "Rating - 1192"
+    ],
+    "imageSrc": "history/cf.jpg"
+  }
+]
