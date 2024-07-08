@@ -12,8 +12,8 @@ function Hero() {
             I'm a Competitive Programmer and Front-End Developer. Let's connect and collaborate to advance technology together...
             </p>
             <div className={styles.btnContainer}>
-              <a className={styles.contactBtn} href="sonammadnawat5@gmail.com">Contact</a>
-            <a className={styles.contactBtn} href="..\..\public\assets\Resume\MyResume.pdf" download>Resume</a>
+              <a className={styles.contactBtn} href="mailto:sonammadnawat5@gmail.com">Contact</a>
+            <a className={styles.contactBtn} href="../../public/assets/Resume/MyResume.pdf" download>Resume</a>
             </div>
         </div>
 
